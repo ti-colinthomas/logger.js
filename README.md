@@ -1,7 +1,7 @@
 logger.js
 ========
 
-#### Javacript logging panel ####
+#### JavaScript logging panel ####
 
 ### Usage ###
 
