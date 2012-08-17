@@ -1,0 +1,11 @@
+.logger-component {
+	font-family: 'Ubuntu Mono', sans-serif;
+	text-align: left;
+	font-size: 10;
+	border: 1px solid hsla(160,20%,40%,0.5);
+	margin: 5px 2px 2px 2px;
+	padding: 2px 2px 2px 2px;
+	height: 20%;
+	resize: vertical;
+	overflow: scroll;
+}

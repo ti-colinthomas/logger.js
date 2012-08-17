@@ -5,10 +5,7 @@
 var Logger = function () {
 
 	this.domElement = document.createElement( 'div' );
-	this.domElement.style.fontFamily = 'Helvetica, Arial, sans-serif';
-	this.domElement.style.textAlign = 'left';
-	this.domElement.style.fontSize = '10px';
-	this.domElement.style.padding = '2px 0px 3px 0px';
+	this.domElement.className = 'navbar-fixed-bottom logger-component';
 
 	this.log = function ( msg, expand ) {
 
